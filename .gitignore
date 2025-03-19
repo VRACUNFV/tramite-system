@@ -1,1 +1,12 @@
+# Node modules
+node_modules/
 
+# Build output
+build/
+
+# Python
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
